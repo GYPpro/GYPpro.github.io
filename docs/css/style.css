@@ -1,0 +1,35 @@
+#maintext,a
+{
+    color:#101010;
+    font-family: "PingFang SC","Microsoft Sans Serif","å¾®è½¯é›…é»‘","é»‘ä½“",sans-serif;
+}
+
+body
+{
+    background-color:#f0f0f0;
+    font-family: "PingFang SC","Microsoft Sans Serif","å¾®è½¯é›…é»‘","é»‘ä½“",sans-serif;
+    font-size:12px;
+    color:#101010;
+}
+
+h1
+{
+    color:#101010;
+}
+
+li
+{
+    color:#101010;
+}
+
+ul
+{
+    font-size:15px;
+    font-family: "PingFang SC","Microsoft Sans Serif","å¾®è½¯é›…é»‘","é»‘ä½“",sans-serif;
+}
+
+pre
+{
+    font-size: 15px;
+    font-family: "PingFang SC","Microsoft Sans Serif","å¾®è½¯é›…é»‘","é»‘ä½“",sans-serif;
+}
